@@ -18,5 +18,5 @@ Exploratory data analysis and machine learning on the Titanic dataset from Kaggl
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## Links
-- Kaggle notebook: https://www.kaggle.com/code/khadimhussain5/titanic-survival-analysis
+- Kaggle notebook: https://www.kaggle.com/code/khadimhussain10/titanic-survival-analysis
 - Competition: https://www.kaggle.com/competitions/titanic
